@@ -463,14 +463,14 @@ if [[ -z $UPDATE ]]; then
     exit 1
 else
     if [[ $UPDATE == true ]]; then
-        git_ver=`curl -s -N https://raw.githubusercontent.com/KasRoudra/VidPhisher/main/files/version.txt`
+        git_ver=`curl -s -N https://raw.githubusercontent.com/Cyber-Caliphate16/VidPhisher/main/files/version.txt`
     else
         git_ver=$version
     fi
 fi
 
 if [[ "$git_ver" != "404: Not Found" && "$git_ver" != "$version" ]]; then
-    changelog=$(curl -s -N https://raw.githubusercontent.com/KasRoudra/VidPhisher/main/files/changelog.log)
+    changelog=$(curl -s -N https://raw.githubusercontent.com/Cyber-Caliphate16/VidPhisher/main/files/changelog.log)
     clear
     echo -e "$logo"
     echo -e "${info}VidPhisher has a new update!\n${info}Current: ${red}${version}\n${info}Available: ${green}${git_ver}\n"
