@@ -85,7 +85,7 @@ patents cannot be used to render the program non-free.
   The precise terms and conditions for copying, distribution and
 modification follow.
 
-Copyright (C) 2022 KasRoudra (https://github.com/Cyber-Caliphate16)
+Copyright (C) 2022 Cyber-Caliphate (https://github.com/Cyber-Caliphate16)
 LicenseInfo
 
 
