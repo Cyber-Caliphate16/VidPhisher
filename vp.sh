@@ -250,10 +250,10 @@ if [ -z $DIRECTORY ]; then
 else
     if [[ $DIRECTORY == true || ! -d $DIRECTORY ]]; then
         if $termux; then
-            if ! [ -d /sdcard/Media ]; then
-                cd /sdcard && mkdir Media
+            if ! [ -d /sdcard/Vidphisher ]; then
+                cd /sdcard && mkdir VidPhisher
             fi
-            FOL="/sdcard/Media"
+            FOL="/sdcard/Vidphisher"
             cd "$FOL"
             if ! [[ -e ".temp" ]]; then
                 touch .temp  || (termux-setup-storage && echo -e "\n${error}Please Restart Termux!\n\007" && sleep 5 && exit 0)
